@@ -20,3 +20,7 @@
 - Power BI
 - Excel
 - Selenium
+
+
+# Dashboard Image
+![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Dashboard.png?raw=true)
