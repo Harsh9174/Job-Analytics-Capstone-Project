@@ -26,10 +26,18 @@
 
 # Insights
 ![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(10).png?raw=true)
+# Dashboard Image
+![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Dashboard.png?raw=true)
+# Challenges Faced
+
+* Web Scraping Complex Websites: Scraping data from websites can become challenging when dealing with complex page structures, dynamic content loading, or AJAX requests. Adapting to changes in the website layout or structure could have posed difficulties.
+
+* Data Inconsistencies: Web-scraped data might not always follow a consistent format, leading to challenges in parsing and structuring the data for analysis. Handling variations in data representation could have required additional preprocessing.
+
+* Data Cleaning and Preprocessing: Cleaning and preprocessing the scraped data to remove duplicates, handle missing values, and ensure data consistency could have been time-consuming and challenging, particularly if the data had inconsistencies.
+
+* Dashboard Design and User Experience: Designing an informative and user-friendly dashboard can be challenging, as it requires a balance between aesthetics, data representation, and user experience. Ensuring that the dashboard effectively communicates insights to stakeholders might have been a hurdle.
 
 # Conclusion
 ![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(11).png?raw=true)
 
-
-# Dashboard Image
-![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Dashboard.png?raw=true)
