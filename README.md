@@ -24,6 +24,12 @@
 ## Data Set Schema
 ![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(9).png?raw=true)
 
+# Insights
+![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(10).png?raw=true)
+
+# Conclusion
+![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(11).png?raw=true)
+
 
 # Dashboard Image
 ![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Dashboard.png?raw=true)
