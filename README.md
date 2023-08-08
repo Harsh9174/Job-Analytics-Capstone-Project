@@ -13,13 +13,16 @@
 * Data Cleaning and Analysis: The collected data is cleaned and processed, and thorough analysis using Python and SQL reveals valuable insights and trends in the job market.
 
 * Excel and Power BI Dashboard: A multi-functional dashboard is created using Excel and Power BI to visually communicate the job market insights, trends, and patterns.
-
+![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(8).png?raw=true)
 # Tech Stack
 - SQL
 - Python
 - Power BI
 - Excel
 - Selenium
+
+## Data Set Schema
+![](https://github.com/Harsh9174/Job-Analytics-capstone-Project/blob/main/Data/Screenshot%20(9).png?raw=true)
 
 
 # Dashboard Image
